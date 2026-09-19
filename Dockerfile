@@ -1,4 +1,4 @@
-FROM ngnix
+FROM nginx
 EXPOSE 80
 MAINTAINER Bharathreddy
 LABEL first container with jenkins
